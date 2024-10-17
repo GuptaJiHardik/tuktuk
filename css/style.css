@@ -44,8 +44,8 @@ body {
 }
 
 .navbar-img img {
-    height: 100%;
-    width: 100%;
+    height: 120%;
+    width: 150%;
 }
 
 .navbar-links {
@@ -87,6 +87,10 @@ body {
     color: #fff;
     padding: 1rem 2rem;
     transition: all .3s;
+}
+.navbar-buttons-register:hover{
+    background-color: white;
+    color: #ff4d30;
 }
 
 .mobile-navbar {
@@ -229,6 +233,11 @@ body {
     box-shadow: 0 10px 15px 0 rgba(255, 83, 48, .35);
     padding: 1rem 2rem;
     transition: all .3s;
+    
+}
+.hero-content-text-btns-book-ride:hover{
+    background-color: white;
+    color: #ff4d30;
 }
 
 .hero-content-text-btns-learn-more {
